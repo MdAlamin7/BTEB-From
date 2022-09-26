@@ -1,0 +1,49 @@
+.header_top{
+    border: solid 1px #EF1922;
+}
+.logo{
+    text-align: center;
+}
+
+.logo img{
+    max-width: 35%;
+    height: auto;
+    padding-top: 30px;
+   
+    margin: 0 auto;
+}
+.heading_text {
+    padding-top: 63px;
+}
+.heading_text h5{
+    padding-top: 20px;
+    text-align: center;
+    text-transform: capitalize;
+    font-size: large;
+    font-family:'Times New Roman', Times, serif
+}
+.heading_text p{
+
+    text-align: center;
+    text-transform: capitalize;
+    font-size: small;
+
+}
+.custom_picture img{
+    
+    max-width: 50%;
+    height: auto;
+    padding-top: 20px;
+}
+.check_place{
+    background-color:#d6d3d480;
+    border-bottom: solid 2px red;
+}
+.gender_fkpi{
+    background-color: #d6d3d480;
+    border-bottom: solid 2px red;
+}
+.test1 p{
+    text-align: center;
+    color: rgb(148, 125, 49);
+}
